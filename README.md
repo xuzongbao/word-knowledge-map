@@ -4,6 +4,9 @@
 
 当前版本：**v1.2.1**（弱词族版式 + 风格锁 + 难词压测样例）
 
+
+![word-knowledge-map](./logo/icon-256.png)
+
 ## 这是什么
 
 面向小学高年级到初中的英语词汇可视化学习材料。先把知识点收成结构化 IR，再按版式模式成图；禁止跳过 IR，也禁止为填满版面编造派生词。
@@ -39,6 +42,7 @@ gh skill install xuzongbao/word-knowledge-map word-knowledge-map \
 
 ```
 INSTALL.md                         # 跨平台远程安装与使用
+logo/                              # 技能图标（方案 C 词汇树徽章）
 skills/word-knowledge-map/
   SKILL.md                         # Skill 正文
   templates/                       # schema、版式、风格、成图 prompt
